@@ -1,0 +1,15 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "l4MeanDemo": {
+    "host": "localhost",
+    "port": 27017,
+    "database": "l4MeanDemo",
+    "password": "",
+    "name": "l4MeanDemo",
+    "user": "",
+    "connector": "mongodb"
+  }
+}
